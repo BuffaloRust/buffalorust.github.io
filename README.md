@@ -36,6 +36,7 @@ https://discord.gg/rust-lang-community
 https://discord.gg/rust-lang
 
 **Rust Analyzer (VSCode, Sublime, vim, emacs):**
+
 https://rust-analyzer.github.io/
 
 ### Getting Started With Rust
@@ -52,6 +53,7 @@ Here is our first list - we'll refine this list as we discuss it more at the mee
  - Books
    - https://doc.rust-lang.org/stable/book/
    - https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/
+   - Hands on Rust - Herbert Wolverson - unique take on learning using game dev - https://hands-on-rust.com/
  - Free Videos
    - https://www.youtube.com/c/JonGjengset
    - Let's Get Rusty on Youtube - goes through each chapter of the book
@@ -66,6 +68,7 @@ Here is our first list - we'll refine this list as we discuss it more at the mee
    - Reddit - https://www.reddit.com/r/rust/
    - Matrix
    - https://users.rust-lang.org/
+   - Advent of Code
    
 ### Where are people getting stuck?
 
@@ -76,3 +79,11 @@ Here is our first list - we'll refine this list as we discuss it more at the mee
 ### Learning Lifetimes
 
 TODO - this comes up a lot
+
+### More Tips and Tricks/Frequenty Shared Links & Tools
+
+TODO - provide more details
+
+ - cargo xtask
+ - cargo alias
+ - rust-toolchain.toml (not always recommmended, but useful for certain projects)
