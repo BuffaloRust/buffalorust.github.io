@@ -48,6 +48,7 @@ Here is our first list - we'll refine this list as we discuss it more at the mee
  - Self-guided courses
    - Rustlings https://github.com/rust-lang/rustlings
    - https://exercism.org/tracks/rust
+   - Take your first steps with Rust: https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
  - Paid courses
    - https://www.linkedin.com/learning/rust%2Dessential%2Dtraining
  - Books
