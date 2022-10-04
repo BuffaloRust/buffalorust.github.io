@@ -55,6 +55,8 @@ Here is our first list - we'll refine this list as we discuss it more at the mee
    - https://doc.rust-lang.org/stable/book/
    - https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/
    - Hands on Rust - Herbert Wolverson - unique take on learning using game dev - https://hands-on-rust.com/
+ - Tutorials
+   - Learn Rust With Entirely Too Many Linked Lists: https://rust-unofficial.github.io/too-many-lists/
  - Free Videos
    - https://www.youtube.com/c/JonGjengset
    - Let's Get Rusty on Youtube - goes through each chapter of the book
@@ -80,6 +82,8 @@ Here is our first list - we'll refine this list as we discuss it more at the mee
 ### Learning Lifetimes
 
 TODO - this comes up a lot
+
+(maybe check out Learn Rust With Entirely Too Many Linked Lists above)
 
 ### More Tips and Tricks/Frequenty Shared Links & Tools
 
