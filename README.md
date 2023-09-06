@@ -51,6 +51,7 @@ Here is our first list - we'll refine this list as we discuss it more at the mee
    - Take your first steps with Rust: https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
  - Paid courses
    - https://www.linkedin.com/learning/rust%2Dessential%2Dtraining
+   - https://www.udemy.com/course/ultimate-rust-2/
  - Books
    - https://doc.rust-lang.org/stable/book/
    - https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/
